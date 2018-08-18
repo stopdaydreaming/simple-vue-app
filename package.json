@@ -1,7 +1,7 @@
 {
-  "name": "compare-vue",
+  "name": "simple-vue-app",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "A Simple VueJS project",
   "author": "lisa copeland <hello@stopdaydreaming.com>",
   "private": true,
   "scripts": {
